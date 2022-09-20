@@ -1,7 +1,9 @@
 import React from 'react'
 
 export default function Main(){
-  return (
+  return ( 
+    <main>
+
     <ul>
     <h2>Interesting Facts About React</h2>
 
@@ -16,7 +18,8 @@ export default function Main(){
 
     <li>React is more popular</li>
     <p>React has 6,011,067 weekly downloads. Angular, vue and node are behind react. React has fully grown community and support.</p>
-    
     </ul>
+
+    </main>
   )
 }

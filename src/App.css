@@ -20,8 +20,10 @@ body{
   
 }
 
-.nav-items >li {
+.nav-items >li  {
   padding: 30px;
+  padding-block: 15px;
+  
 }
 
 .img {
@@ -34,13 +36,24 @@ body{
 
 h1 {
   display: flex;
+  
 }
 
 .nav > h1 {
   padding-right: 35rem;
 }
-.header{
+.header {
   color: rgb(52, 52, 238);
 }
+
+h2 {
+  color: rgb(52, 52, 238);
+}
+
+main{
+  padding: 60px ;
+ 
+}
+
 
 
